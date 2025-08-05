@@ -11,15 +11,11 @@
 🚀 My goal is to apply practical skills to protect digital environments and grow into a trusted cyber defender.
 
 <h1 align="center">Hi 👋, I'm Varada Angadi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varada-angadi&label=Profile%20views&color=0e75b6&style=flat" alt="varada-angadi" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varada-angadi&show_icons=true&locale=en&layout=compact" alt="varada-angadi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varada-angadi&show_icons=true&locale=en" alt="varada-angadi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varada-angadi&" alt="varada-angadi" /></p>
 
 
 <!-- ## 🌐 Socials:
