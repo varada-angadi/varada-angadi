@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varada-angadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varada-angadi" height="30" width="40" /></a>
   
-<a href="mailto:varadaangadi203@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp" alt="email"/></a>
+<a href="mailto:varadaangadi203@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp" alt="email" height="30"/></a>
 </p>
 
 
