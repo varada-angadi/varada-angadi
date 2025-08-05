@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Varada Angadi</h1>
 
 <p>
-🛡️ I'm a dedicated SOC student passionate about cybersecurity, with a focus on threat detection, incident response, and network defense. 
-🔍 I enjoy diving deep into logs, network traffic, and threat intel to uncover anomalies and understand attack patterns.
-🧪 I document my journey and hands-on projects on GitHub—ranging from log parsers to detection rule experiments and security tools.
-⚙️ Continuously exploring tools like Wireshark, ELK Stack, Suricata, and scripting custom solutions to automate security workflows.
+🛡️ I'm a dedicated SOC student passionate about cybersecurity, with a focus on threat detection, incident response, and network defense. <br>
+🔍 I enjoy diving deep into logs, network traffic, and threat intel to uncover anomalies and understand attack patterns.<br>
+🧪 I document my journey and hands-on projects on GitHub—ranging from log parsers to detection rule experiments and security tools.<br>
+⚙️ Continuously exploring tools like Wireshark, ELK Stack, Suricata, and scripting custom solutions to automate security workflows. <br>
 🚀 My goal is to apply practical skills to protect digital environments and grow into a trusted cyber defender.</p>
 
 
