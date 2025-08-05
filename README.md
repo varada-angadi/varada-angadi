@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🛡️ I'm a dedicated SOC student passionate about cybersecurity, with a focus on threat detection, incident response, and network defense.
+🛡️ I'm a dedicated SOC student passionate about cybersecurity, with a focus on threat detection, incident response, network defense.
 
 🔍 I enjoy diving deep into logs, network traffic, and threat intel to uncover anomalies and understand attack patterns.
 
