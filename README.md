@@ -27,6 +27,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=varada-angadi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varada-angadi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varada-angadi&show_icons=true&locale=en&layout=compact" alt="varada-angadi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varada-angadi&show_icons=true&locale=en" alt="varada-angadi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varada-angadi&" alt="varada-angadi" /></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=varada-angadi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
