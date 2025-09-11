@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Varada Angadi</h1>
 
 <p>
-🛡️ I'm a dedicated SOC student passionate about cybersecurity, currently focus on threat detection, incident response, network defense. <br>
-🔍 I enjoy diving deep into logs, network traffic, and threat intel to uncover anomalies and understand attack patterns.<br>
-🧪 I document my journey and hands-on projects on GitHub—ranging from log parsers to detection rule experiments and security tools.<br>
-⚙️ Continuously exploring tools like Wireshark, ELK Stack, Suricata, and scripting custom solutions to automate security workflows. <br>
-🚀 My goal is to apply practical skills to protect digital environments and grow into a trusted cyber defender.</p>
+👨🏽‍💻 I'm a software developer with a strong foundation in Java and SQL, passionate about building robust, scalable applications. <br>
+🛠️ I specialize in full-stack development, with hands-on experience using React, Node.js, and CSS to create intuitive and secure applications. <br>
+🧠 I enjoy tackling complex problems and am skilled in every stage of the Software Development Life Cycle (SDLC), from design to deployment. <br>
+🚀 My goal is to leverage my technical skills to drive innovation and create impactful products.
+</p>
 
 
 
