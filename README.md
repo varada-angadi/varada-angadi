@@ -1,11 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Varada Angadi</h1>
+<h1 align="center">Hello I'm Varada Angadi</h1>
 
 <p>
-👨🏽‍💻 I'm a software developer with a strong foundation in Java and SQL, passionate about building robust, scalable applications. <br>
-🛠️ I specialize in full-stack development, with hands-on experience using React, Node.js, and CSS to create intuitive and secure applications. <br>
-🧠 I enjoy tackling complex problems and am skilled in every stage of the Software Development Life Cycle (SDLC), from design to deployment. <br>
-🚀 My goal is to leverage my technical skills to drive innovation and create impactful products.
+<ul>
+  <li> I'm a software developer with a strong foundation in Java and SQL, passionate about building robust, scalable applications.</li> <br>
+<li>I specialize in full-stack development, with hands-on experience using React, Node.js, and CSS to create intuitive and secure applications. </li><br>
+<li>I enjoy tackling complex problems and am skilled in every stage of the Software Development Life Cycle (SDLC), from design to deployment.</li> <br>
+<li> My goal is to leverage my technical skills to drive innovation and create impactful products.
+</ul>
 </p>
 
 
