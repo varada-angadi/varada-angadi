@@ -2,7 +2,7 @@
 <h1 align="center">Hello I'm Varada Angadi</h1>
 
 # 💫 About Me:
-🎓 Computer Science Engineer with a foundation in Networking, Wireless Technologies, and Backend Development. <br>💻 Knowledge of TCP/IP, OSI Model, Switching, Routing, VLANs, DNS, DHCP, and WLAN Fundamentals.<br>🏗️ Hands-on experience in network traffic analysis, vulnerability scanning, troubleshooting, and root-cause analysis.<br>🛠️ Experienced with Node.js, Express.js, REST APIs, PostgreSQL, and MongoDB.<br>🌱 Built distributed systems using Microservices, Kafka, Redis, Elasticsearch, and Docker.<br>🚀 Interested in networking, wireless technologies, and network support roles, alongside backend engineering and distributed systems.
+🎓 Computer Science Engineer with a foundation in Networking and Backend Development. <br>🛠️ Experienced with Node.js, Express.js, REST APIs, PostgreSQL, and MongoDB.<br>🌱 Built distributed systems using Microservices, Kafka, Redis, Elasticsearch, and Docker.<br>💻 Knowledge of TCP/IP, OSI Model, Switching, Routing, VLANs, DNS, DHCP, and WLAN Fundamentals.<br>🏗️ Hands-on experience in network traffic analysis, vulnerability scanning, troubleshooting, and root-cause analysis.<br>🚀 Interested in networking, wireless technologies, and network support roles, alongside backend engineering and distributed systems.
 
 
 ## 🌐 Socials:
